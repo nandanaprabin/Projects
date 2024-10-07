@@ -1,0 +1,9 @@
+In banking, understanding the risk of loan defaults involves several key factors:
+
+Transaction History: Regular deposits suggest income stability, while erratic deposits or large withdrawals could signal risk.
+Loan Amount: Large loans relative to income may indicate a higher likelihood of default.
+Credit Card Usage: High credit card spending can reflect financial stress.
+Demographics: Factors like unemployment rates and economic conditions in a district can influence loan repayment abilities.
+GPA Loan System: The GPA score assesses a customer’s creditworthiness based on past interactions, such as timely loan payments, savings habits, and account behavior.
+
+This analysis will help banks identify patterns that predict loan defaults, allowing them to make better lending decisions and manage risk more effectively.
