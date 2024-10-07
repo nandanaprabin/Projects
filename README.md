@@ -6,7 +6,7 @@ This project aims to help banks minimize the risk of loan defaults by analyzing 
 The goal is to build a predictive model that helps the bank identify high-risk customers who are likely to default on their loans. This will enable the bank to manage its loan portfolio more effectively and minimize losses.
 
 ## Dataset
-The dataset consists of real Czech banking data from 1999, and it includes the following files:
+The dataset is taken from data.world:https://data.world/lpetrocelli/czech-financial-dataset-real-anonymized-transactions, consisting of real Czech banking data from 1999. It includes the following files:
 
 - account.csv – Details of the bank accounts (4500 records)
 - card.csv – Information on issued credit cards (892 records)
