@@ -1,0 +1,8 @@
+Objective:
+This project aims to help the bank predict which customers are likely to default on loans based on their transaction history, loan details, demographic information, and GPA (Grade Point Average) in banking, which assesses financial stability and reliability. 
+Automating this risk analysis will enable the bank to make quicker and more informed decisions, reducing the likelihood of defaults and improving customer targeting.
+
+Problem Statement:
+Banks need to identify customers with a higher risk of defaulting on loans by analyzing transaction behavior, loan amounts, income stability, and demographic data. 
+The focus is to predict default risks through these factors and improve the loan eligibility process. 
+Transaction patterns, GPA loan scores, and demographic factors like unemployment rates will be used to gauge risk, helping the bank minimize non-performing loans (NPLs) and optimize its lending strategy.
