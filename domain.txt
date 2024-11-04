@@ -1,0 +1,17 @@
+Bank Loan Default Risk Analysis Domain
+
+This project focuses on the financial sector, particularly in analyzing the risk of loan defaults based on customer data. The goal is to predict which customers are more likely to default on their loans, allowing the bank to minimize risk and improve its lending decisions.
+
+Key Aspects of the Domain:
+
+Loan Default Risk: This analysis aims to assess and predict the likelihood of customers defaulting on loans based on transaction behavior, demographic data, and loan details.
+
+Customer Financial Health: Understanding income stability (through transaction patterns) and evaluating risk factors such as loan amount and credit card usage helps in gauging a customer's financial health.
+
+Data-Driven Decision Making: By leveraging data analysis and machine learning models, this project helps banks make informed decisions, reducing non-performing loans (NPLs).
+
+Predictive Modeling: Techniques like logistic regression and decision trees will be used to model customer behavior and predict default risks based on historical data.
+
+Socio-Economic Impact: Demographic information like district unemployment rates can influence a customer's ability to repay loans. This holistic analysis considers how economic conditions shape loan repayment behavior.
+
+This project ultimately seeks to optimize the bank’s lending process by identifying high-risk customers and preventing loan defaults, thus promoting sustainable banking practices.
